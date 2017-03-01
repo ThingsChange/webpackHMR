@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 14,
+    "editor.renderIndentGuides": true,
+    "css.validate": false,
+    "scss.validate": false,
+    "javascript.validate.enable": false,
+    "files.exclude": {
+        "src/assets": false,
+        "dist/public": true,
+        "dist/craft": true,
+        "**/.git": true, 
+        "**/.DS_Store": true, 
+        "**/node_modules": true, 
+        "**/.svn": true,
+        "**/.hg": true
+    },
+    "vsicons.presets.angular": false
+}
